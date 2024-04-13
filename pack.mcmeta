@@ -1,0 +1,17 @@
+{
+    "pack":{
+        "pack_format": 16,
+        "description": "Adds the High Valyrian language to the game",
+        "supported_formats": {
+            "min_inclusive": 16,
+            "max_inclusive": 99
+          }
+    },
+    "language":{
+        "hv_val": {
+            "name": "Valyria",
+            "region": "Old Valyria",
+            "bidirectional": "false"
+        }
+    }
+}
