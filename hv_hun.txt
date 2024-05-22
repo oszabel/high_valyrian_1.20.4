@@ -1,0 +1,74 @@
+Belarior Vettrā = Kisegítő lehetőségek
+Bardurves = Narrátor
+Ālion = hely
+kustikagon = to enable
+kustikakson = to be enabled
+āsikagon = reborn
+sigligon = restart
+dāeremagon = save
+rughagon = quit
+lōtāves = solidness
+blokkon = block (blokka = blocks)
+ezīmos = chunk
+gūrēntir = data
+
+akātsia = acacia
+nerny = door
+guēse = tree, log
+pragron = chest
+nusper = cattle / beef
+tembyr = book
+Anno Mīsvos = Horse Armor
+
+
+oak (adj) = qūrka, -ys, -on, -or
+oak tree = qūrkēse
+birch (adj) = bētla, -ys, -on, -or
+birch tree = bētlēse
+spruce (adj) = ābīña, -ys, -on, -or
+spruce tree = ābīñēse
+
+shovel = Amanengy
+
+iron = āegion
+iron (adj) = āegenka
+gold = āeksion
+golden = āeksenka
+
+to enchant / to do magic / to spell = sēteregon
+enchanted = sētereta
+magician = sētio
+
+giēñanon = healing / being healed
+urnerves = visible
+urnenon = vision
+nāurnerves = invisible
+pyghagon = to jump
+pyghanon = jumping / leaping
+sōvegon = to fly
+sōvenon = flying
+jēda = time
+jēdenka = timing / lingering
+ropanon = falling
+roparves (adj) = falling
+[dat] gōpaghagon = to breathe under something
+[dat] gōpaghanon = breathing under something
+
+verdligon = to recreate, to remake
+verdlinon = recreation, remake
+
+merbugon = to hunger / to be hungry
+merbunon = hunger
+
+qana = sharp
+qanaves = sharpness
+
+mōzunar = drink (mōzunri = drinks)
+āgīmita (adj) = unknown
+sīmonarys = advancement
+dōronēra = stone age
+baranon = marking, target, aim, goal
+
+vohty:
+    Astapori Valyrian: priest
+    High Valyrian: doctor
