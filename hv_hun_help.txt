@@ -68,6 +68,8 @@ mōzunar = drink (mōzunri = drinks)
 sīmonarys = advancement
 dōronēra = stone age
 baranon = marking, target, aim, goal
+jokorinon = exploration, adventure
+bion = biome
 
 vohty:
     Astapori Valyrian: priest
