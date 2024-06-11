@@ -70,7 +70,17 @@ dōronēra = stone age
 baranon = marking, target, aim, goal
 jokorinon = exploration, adventure
 bion = biome
+jonektogon = to slice, to chop
+hisagon = to slice, to shave
+zāliapos = onion
 
 vohty:
     Astapori Valyrian: priest
     High Valyrian: doctor
+
+hen + D
+va + D
+hae + D
+
+G + syt
+
