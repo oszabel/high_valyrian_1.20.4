@@ -78,9 +78,14 @@ vohty:
     Astapori Valyrian: priest
     High Valyrian: doctor
 
-hen + D
-va + D
-hae + D
-
-G + syt
-
+Prepositions:
+    hen + D = because of / hen + L = from
+    va + L = in / to
+    hae + L = as
+Postpositions:
+    G + syt = for
+    G + naejot = in front of
+    G + inkot = in behind of
+    G + gō = under
+    G + rȳ = between, through, across, all in reference to a time period
+    G + hēdrȳ = from amongst, out of, out of the midst of [hen + rȳ]
